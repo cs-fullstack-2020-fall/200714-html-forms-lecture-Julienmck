@@ -1,0 +1,15 @@
+body{
+    margin: 2%;
+    font-family: sans-serif;
+}
+
+
+form{
+    border:1px black solid;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+div{
+    margin: 1%;
+}
